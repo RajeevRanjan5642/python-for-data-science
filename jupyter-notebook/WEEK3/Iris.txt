@@ -1,0 +1,305 @@
+Id      SepalLengthCmSepalWidthCmPetalLengthCmPetalWidthCmSpecies
+                                                           Iris-
+      1            5.1         3.5          1.4         0.2setosa
+                                                           Iris-
+      2            4.9           3          1.4         0.2setosa
+                                                           Iris-
+      3            4.7         3.2          1.3         0.2setosa
+                                                           Iris-
+      4            4.6         3.1          1.5         0.2setosa
+                                                           Iris-
+      5              5         3.6          1.4         0.2setosa
+                                                           Iris-
+      6            5.4         3.9                      0.4setosa
+                                                           Iris-
+      7            4.6         3.4          1.4         0.3setosa
+                                                           Iris-
+      8              5         3.4          1.5         0.2setosa
+                                                           Iris-
+      9            4.4         2.9          1.4         0.2setosa
+                                                           Iris-
+     10            4.9         3.1          1.5         0.1setosa
+                                                           Iris-
+     11            5.4         3.7          1.5         0.2setosa
+                                                           Iris-
+     12            4.8         3.4          1.6         0.2setosa
+                                                           Iris-
+     13                          3          1.4         0.1setosa
+                                                           Iris-
+     14            4.3           3          1.1         0.1setosa
+                                                           Iris-
+     15            5.8           4          1.2         0.2setosa
+                                                           Iris-
+     16            5.7         4.4          1.5         0.4setosa
+                                                           Iris-
+     17            5.4         3.9          1.3         0.4setosa
+                                                           Iris-
+     18            5.1         3.5          1.4         0.3setosa
+                                                           Iris-
+     19            5.7         3.8          1.7         0.3setosa
+                                                           Iris-
+     20            5.1         3.8??                    0.3setosa
+                                                           Iris-
+     21            5.4         3.4          1.7         0.2setosa
+                                                           Iris-
+     22            5.1         3.7          1.5         0.4setosa
+                                                           Iris-
+     23            4.6         3.6            1         0.2setosa
+                                                           Iris-
+     24            5.1         3.3          1.7         0.5setosa
+                                                           Iris-
+     25            4.8         3.4          1.9         0.2setosa
+                                                           Iris-
+     26              5           3          1.6         0.2setosa
+                                                           Iris-
+     27              5         3.4          1.6         0.4setosa
+                                                           Iris-
+     28            5.2         3.5          1.5         0.2setosa
+                                                           Iris-
+     29            5.2         3.4          1.4         0.2setosa
+                                                           Iris-
+     30            4.7         3.2          1.6         0.2setosa
+                                                           Iris-
+     31            4.8         3.1          1.6         0.2setosa
+                                                           Iris-
+     32            5.4###                   1.5         0.4setosa
+                                                           Iris-
+     33            5.2         3.4          1.5         0.1setosa
+                                                           Iris-
+     34            5.5         3.4          1.4         0.2setosa
+                                                           Iris-
+     35            4.9         3.4          1.5         0.1setosa
+                                                           Iris-
+     36              5         3.4          1.2         0.2setosa
+                                                           Iris-
+     37            5.5         3.4          1.3         0.2setosa
+                                                           Iris-
+     38            4.9         3.4          1.5         0.1setosa
+                             Iris-
+                             setosa
+39   4.4   3.4   1.3   0.2
+                          Iris-
+40   5.1   3.4   1.5   0.2setosa
+                          Iris-
+41    5    3.4   1.3   0.3setosa
+                          Iris-
+42   4.5   3.4   1.3   0.3setosa
+                          Iris-
+43   4.4   3.4   1.3   0.2setosa
+                          Iris-
+44    5    3.4   1.6   0.6setosa
+                          Iris-
+45   5.1   3.4   1.9   0.4setosa
+                          Iris-
+46   4.8   3.4   1.4   0.3setosa
+                          Iris-
+47   5.1   3.4   1.6   0.2setosa
+                          Iris-
+48   4.6   3.4   1.4   0.2setosa
+                          Iris-
+49   5.3   3.4   1.5   0.2setosa
+                          Iris-
+50    5    3.4   1.4   0.2setosa
+                          Iris-
+51    7    3.4   4.7   1.4versicolor
+                          Iris-
+52   6.4   3.4   4.5   1.5versicolor
+                          Iris-
+53   6.9   3.4   4.9   1.5versicolor
+                          Iris-
+54   5.5   3.4    4    1.3versicolor
+                          Iris-
+55   6.5   3.4   4.6   1.5versicolor
+                          Iris-
+56   5.7   3.4   4.5   1.3versicolor
+                          Iris-
+57   6.3   3.4   4.7   1.6versicolor
+                          Iris-
+58   4.9   3.4   3.3     1versicolor
+                          Iris-
+59   6.6   3.4   4.6   1.3versicolor
+                          Iris-
+60   5.2   3.4   3.9   1.4versicolor
+                          Iris-
+61    5    3.4   3.5     1versicolor
+                          Iris-
+62   5.9   3.4   4.2   1.5versicolor
+                          Iris-
+63    6    3.4    4      1versicolor
+                          Iris-
+64   6.1   3.4   4.7   1.4versicolor
+                          Iris-
+65   5.6   3.4   3.6   1.3versicolor
+                          Iris-
+66   6.7   3.4   4.4   1.4versicolor
+                          Iris-
+67   5.6   3.4   4.5   1.5versicolor
+                          Iris-
+68   5.8   3.4   4.1     1versicolor
+                          Iris-
+69   6.2   3.4   4.5   1.5versicolor
+                          Iris-
+70   5.6   3.4   3.9   1.1versicolor
+                          Iris-
+71   5.9   3.4   4.8   1.8versicolor
+                          Iris-
+72   6.1   3.4    4    1.3versicolor
+                          Iris-
+73   6.3   3.4   4.9   1.5versicolor
+                          Iris-
+74   6.1   3.4   4.7   1.2versicolor
+                          Iris-
+75   6.4   3.4   4.3   1.3versicolor
+                          Iris-
+76   6.6   3.4   4.4   1.4versicolor
+                              Iris-
+77      6.8   3.4   4.8   1.4versicolor
+                              Iris-
+                              versicolor
+78      6.7   3.4    5    1.7
+                              Iris-
+79       6    3.4   4.5   1.5versicolor
+                              Iris-
+80      5.7   3.4   3.5     1versicolor
+                              Iris-
+81      5.5   3.4   3.8   1.1versicolor
+                              Iris-
+82      5.5   3.4   3.7     1versicolor
+                              Iris-
+83      5.8   3.4   3.9   1.2versicolor
+                              Iris-
+84       6    3.4   5.1   1.6versicolor
+                              Iris-
+85      5.4   3.4   4.5   1.5versicolor
+                              Iris-
+86       6    3.4   4.5   1.6versicolor
+                              Iris-
+87      6.7   3.4   4.7   1.5versicolor
+                              Iris-
+88      6.3   3.4   4.4   1.3versicolor
+                              Iris-
+89      5.6   3.4   4.1   1.3versicolor
+                              Iris-
+90      5.5   3.4    4    1.3versicolor
+                              Iris-
+91      5.5   3.4   4.4   1.2versicolor
+                              Iris-
+92      6.1   3.4   4.6   1.4versicolor
+                              Iris-
+93      5.8   3.4    4    1.2versicolor
+                              Iris-
+94       5    3.4   3.3     1versicolor
+                              Iris-
+95      5.6   3.4   4.2   1.3versicolor
+                              Iris-
+96      5.7   3.4   4.2   1.2versicolor
+                              Iris-
+97      5.7   3.4   4.2   1.3versicolor
+                              Iris-
+98      6.2   3.4   4.3   1.3versicolor
+                              Iris-
+99      5.1   3.4    3    1.1versicolor
+                              Iris-
+100??         3.4   4.1   1.3versicolor
+                              Iris-
+101     6.3   3.4    6    2.5virginica
+                              Iris-
+102     5.8   3.4   5.1   1.9virginica
+                              Iris-
+103     7.1   3.4   5.9   2.1virginica
+                              Iris-
+104     6.3   3.4   5.6   1.8virginica
+                              Iris-
+105     6.5   3.4   5.8   2.2virginica
+                              Iris-
+106     7.6   3.4   6.6   2.1virginica
+                              Iris-
+107     4.9   3.4   4.5   1.7virginica
+                              Iris-
+108     7.3   3.4   6.3   1.8virginica
+                              Iris-
+109     6.7   3.4   5.8   1.8virginica
+                              Iris-
+110     7.2   3.4   6.1   2.5virginica
+                              Iris-
+111     6.5   3.4   5.1     2virginica
+                              Iris-
+112     6.4   3.4   5.3   1.9virginica
+                              Iris-
+113     6.8   3.4   5.5   2.1virginica
+                              Iris-
+114     5.7   3.4    5      2virginica
+                               Iris-
+115   5.8   3.4      5.1   2.4virginica
+                               Iris-
+116   6.4   3.4      5.3   2.3virginica
+                               Iris-
+                               virginica
+117   6.5   3.4      5.5   1.8
+                               Iris-
+118   7.7   3.4      6.7   2.2virginica
+                               Iris-
+119   7.7   3.4      6.9   2.3virginica
+                               Iris-
+120    6    3.4       5    1.5virginica
+                               Iris-
+121   6.9   3.4      5.7   2.3virginica
+                               Iris-
+122   5.6   3.4      4.9     2virginica
+                               Iris-
+123   7.7   3.4      6.7     2virginica
+                               Iris-
+124   6.3   3.4      4.9   1.8virginica
+                               Iris-
+125   6.7   3.4      5.7   2.1virginica
+                               Iris-
+126   7.2   3.4       6    1.8virginica
+                               Iris-
+127   6.2   3.4      4.8   1.8virginica
+                               Iris-
+128   6.1   3.4      4.9   1.8virginica
+                               Iris-
+129   6.4   3.4      5.6   2.1virginica
+                               Iris-
+130   7.2   3.4      5.8   1.6virginica
+                               Iris-
+131   7.4   3.4      6.1   1.9virginica
+                               Iris-
+132   7.9   3.4      6.4     2virginica
+                               Iris-
+133   6.4   3.4      5.6   2.2virginica
+                               Iris-
+134   6.3   3.4      5.1   1.5virginica
+                               Iris-
+135   6.1   3.4###         1.4virginica
+                               Iris-
+136   7.7   3.4      6.1   2.3virginica
+                               Iris-
+137   6.3   3.4      5.6   2.4virginica
+                               Iris-
+138   6.4   3.4      5.5   1.8virginica
+                               Iris-
+139    6    3.4      4.8   1.8virginica
+                               Iris-
+140   6.9   3.4      5.4   2.1virginica
+                               Iris-
+141   6.7   3.4      5.6   2.4virginica
+                               Iris-
+142   6.9   3.4      5.1   2.3virginica
+                               Iris-
+143   5.8   3.4      5.1   1.9virginica
+                               Iris-
+144   6.8   3.4      5.9   2.3virginica
+                               Iris-
+145   6.7   3.4      5.7   2.5virginica
+                               Iris-
+146   6.7   3.4      5.2   2.3virginica
+                               Iris-
+147   6.3   3.4       5    1.9virginica
+                               Iris-
+148   6.5   3.4      5.2     2virginica
+                               Iris-
+149         3.4      5.4   2.3virginica
+                               Iris-
+150   5.9   3.4      5.1   1.8virginica
+
