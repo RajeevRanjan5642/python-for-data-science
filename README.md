@@ -1,4 +1,3 @@
 # PYTHON-FOR-DATA-SCIENCE
 
-This repo contains python code in the form of jupyter source files <br>
-for "Python For Data Science Course" (NPTEL).
+This repository contains python scripts for the 4-WEEK "Python For Data Science Course" provided by NPTEL.
